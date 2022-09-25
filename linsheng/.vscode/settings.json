@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "fstream": "cpp",
+        "stdexcept": "cpp",
+        "bitset": "cpp"
+    }
+}

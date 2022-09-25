@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "samplefmt.h": "c",
+        "avformat.h": "c"
+    }
+}

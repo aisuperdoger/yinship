@@ -1,0 +1,3 @@
+/home/ubuntu1/projects/cpp/yinship/qincji/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu1/projects/cpp/yinship/qincji/build/CMakeFiles/edit_cache.dir
+/home/ubuntu1/projects/cpp/yinship/qincji/build/CMakeFiles/my_cmake_exe.dir

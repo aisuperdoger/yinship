@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -g  -rdynamic CMakeFiles/my_cmake_exe.dir/demuxing_decoding.cpp.o  -o my_cmake_exe   -L/home/ubuntu1/projects/cpp/yinship/qincji/ffmpeg-4.2.7/lib  -Wl,-rpath,/home/ubuntu1/projects/cpp/yinship/qincji/ffmpeg-4.2.7/lib -lavformat -lm 
